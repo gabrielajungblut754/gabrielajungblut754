@@ -6,34 +6,36 @@
 
 ## About
 
-My focus is the application of statistical and computational methods to data analysis, pattern identification, and decision support. My areas of interest include data science, artificial intelligence, analytical applications, and process automation.
+My focus is Data Science, Artificial Intelligence, and Process Automation, with an interest in analytical applications that transform data into useful information and support decision-making. My approach combines data analysis, programming, and workflow automation to address practical problems.
+
+### Areas of focus
+
+- Data Science & Artificial Intelligence
+- Data Analysis & Visualization
+- Process Automation & Data Workflows
+- Machine Learning & Analytical Applications
 
 ### Tools & technologies
 
 SQL · R · Power BI · Shiny · Excel · Power Query · VBA
 
-### Project focus
-
-- Data preparation, exploratory analysis, and visualization.
-- Automated data workflows and data quality checks.
-- Statistical modelling and machine learning.
-
-My approach emphasizes reproducibility, clear documentation, and critical interpretation of results and limitations.
+I value reproducible workflows, clear documentation, data quality, and critical evaluation of results and limitations.
 
 ---
 
 ## Sobre
 
-Meu foco é a aplicação de métodos estatísticos e computacionais à análise de dados, à identificação de padrões e ao apoio à tomada de decisão. Minhas áreas de interesse abrangem Ciência de Dados, Inteligência Artificial, aplicações analíticas e automação de processos.
+Meu foco está em Ciência de Dados, Inteligência Artificial e Automação de Processos, com interesse em aplicações analíticas que transformam dados em informações úteis e apoiam a tomada de decisão. Minha abordagem combina análise de dados, programação e automação de rotinas na resolução de problemas práticos.
+
+### Áreas de foco
+
+- Ciência de Dados e Inteligência Artificial
+- Análise e Visualização de Dados
+- Automação de Processos e Fluxos de Dados
+- Aprendizado de Máquina e Aplicações Analíticas
 
 ### Ferramentas e tecnologias
 
 SQL · R · Power BI · Shiny · Excel · Power Query · VBA
 
-### Foco dos projetos
-
-- Tratamento, análise exploratória e visualização de dados.
-- Automação de fluxos de dados e verificações de qualidade.
-- Modelagem estatística e aprendizado de máquina.
-
-Minha abordagem prioriza a reprodutibilidade, a clareza da documentação e a interpretação crítica dos resultados e de suas limitações.
+Valorizo procedimentos reproduzíveis, documentação clara, qualidade dos dados e avaliação crítica dos resultados e de suas limitações.
