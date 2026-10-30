@@ -17,7 +17,7 @@ My focus is Data Science, Artificial Intelligence, and Process Automation, with 
 
 ### Tools & technologies
 
-SQL · R · Power BI · Shiny · Excel · Power Query · VBA
+SQL · R · Python · Power BI · Shiny · Excel · Power Query · VBA
 
 I value reproducible workflows, clear documentation, data quality, and critical evaluation of results and limitations.
 
@@ -36,6 +36,6 @@ Meu foco está em Ciência de Dados, Inteligência Artificial e Automação de P
 
 ### Ferramentas e tecnologias
 
-SQL · R · Power BI · Shiny · Excel · Power Query · VBA
+SQL · R · Python · Power BI · Shiny · Excel · Power Query · VBA
 
 Valorizo procedimentos reproduzíveis, documentação clara, qualidade dos dados e avaliação crítica dos resultados e de suas limitações.
